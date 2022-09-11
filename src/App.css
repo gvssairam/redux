@@ -1,0 +1,28 @@
+.main_container {
+  background-color: lightcyan;
+  min-height: 100vh;
+  padding: 40px;
+
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  margin: 10px;
+}
+
+.title {
+  color: lightseagreen;
+  font-style: italic;
+}
+.body {
+  color: black;
+  font-style: normal;
+}
+
+.button {
+  cursor: pointer;
+}
+
+.buttonCont {
+  text-align: center;
+}
